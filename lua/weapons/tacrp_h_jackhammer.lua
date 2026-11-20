@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "5Shotgun"
 
 SWEP.Description = "One-of-one bulky automatic shotgun with a cylinder magazine. Quite heavy and a bit unreliable."
-SWEP.Description_Quote = "\"Moo, I say!\""
+SWEP.Description_Quote = "\"Moo, I say!\"" -- Fallout (1997)
 
 SWEP.Trivia_Caliber = "12 Gauge"
 SWEP.Trivia_Manufacturer = "Pancor Corporation"

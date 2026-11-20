@@ -11,7 +11,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Long-slide pistol with stainless steel construction. Accurate and hits hard at range."
-SWEP.Description_Quote = "\"Forty-five long-slide with laser sighting.\""
+SWEP.Description_Quote = "\"Forty-five long-slide with laser sighting.\"" -- The Terminator (1984)
 
 SWEP.Trivia_Caliber = ".45 Super" -- I LOADED .45 SUPER INTO A HARDBALLER. BEST IDEA I EVER DUN HAD.
 SWEP.Trivia_Manufacturer = "Arcadia Machine & Tool"

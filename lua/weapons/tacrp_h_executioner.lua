@@ -13,7 +13,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "2Magnum Pistol"
 
 SWEP.Description = "Massive revolver shooting small-bore shotgun shells.\nFires a lot of pellets, but spread is poor."
-SWEP.Description_Quote = "\"Come, my friends. 'Tis not too late to seek a newer world.\""
+SWEP.Description_Quote = "\"Come, my friends. 'Tis not too late to seek a newer world.\"" -- Ulysses (1833)
 
 SWEP.Trivia_Caliber = ".410 Bore"
 SWEP.Trivia_Manufacturer = "Taurus"

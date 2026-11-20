@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "7Sniper Rifle"
 
 SWEP.Description = "Futuristic in-between of a sniper rifle and an AMR. Excellent armor penetration and high muzzle velocity. \nEquipped with a 12x scope by default."
-SWEP.Description_Quote = "\"Just like old times.\"" -- Modern Warfare 2 (2009)
+SWEP.Description_Quote = "\"Just like old times.\"" -- Call of Duty: Modern Warfare 2 (2009)
 
 SWEP.Trivia_Caliber = ".408 Cheyenne Tactical"
 SWEP.Trivia_Manufacturer = "CheyTac USA"

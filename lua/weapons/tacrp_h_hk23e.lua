@@ -11,7 +11,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "5Machine Gun"
 
 SWEP.Description = "Belt-fed machine gun variant of a classic battle rifle. Accurate and seriously powerful, but hard to use while on the move."
-SWEP.Description_Quote = "\"Now I can solve up to 800 problems a minute!\""
+SWEP.Description_Quote = "\"Now I can solve up to 800 problems a minute!\"" -- Freeman's Mind (2013)
 
 SWEP.Trivia_Caliber = "7.62x51mm"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"
